@@ -24,13 +24,6 @@ requirements.txt - Dependencies
 assets/ - Screenshots & outputs
 
 
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-python main.py
-📸 Output
-
-
 📈 Future Scope
 Deep Learning (CNN)
 Web/Mobile deployment
@@ -38,11 +31,10 @@ Chatbot integration
 
 ---
 
-## **STEP 4: Initialize Git (in project folder)**
+## Initialize Git (in project folder)**
 
 Open terminal in your folder and run:
 
-```bash
 git init
 git add .
 git commit -m "Initial commit: AI Emotion Detection Assistant"
