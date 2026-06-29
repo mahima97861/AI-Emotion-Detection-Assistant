@@ -1,5 +1,11 @@
 # 🎭 AI Emotion Detection Assistant
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 An AI-powered real-time Emotion Detection Assistant built using Python, OpenCV, NumPy, Matplotlib, and Text-to-Speech technology.
 
 The application captures live webcam video, detects faces, estimates emotions using facial characteristics, provides motivational feedback messages, speaks detected emotions aloud, and visualizes emotion trends in real-time through a dynamic graph.
