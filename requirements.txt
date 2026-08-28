@@ -2,3 +2,8 @@ opencv-python
 numpy
 matplotlib
 pyttsx3
+
+opencv-python 
+numpy
+matplotlib 
+pyttsx3 
