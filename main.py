@@ -3,7 +3,7 @@ import numpy as np
 import random
 import time
 import pyttsx3
-import matplotlib.pyplot as plt
+import matplotlib.pyplt as plt
 
 # ---------------- VOICE ENGINE ----------------
 engine = pyttsx3.init()
