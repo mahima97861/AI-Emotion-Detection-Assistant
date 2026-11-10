@@ -5,10 +5,10 @@ import time
 import pyttsx3
 import matplotlib.pyplt as plt
 
-# ---------------- VOICE ENGINE ----------------
+# ---------------- VOICE ENGINE ---------------
 engine = pyttsx3.init()
 
-# ---------------- FACE DETECTOR ----------------
+# ---------------- FACE DETECTOR ---------------
 face_cascade = cv2.CascadeClassifier(
     cv2.data.haarcascades + 'haarcascade_frontalface_default.xml'
 )
