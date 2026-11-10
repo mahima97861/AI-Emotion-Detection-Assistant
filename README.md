@@ -42,7 +42,7 @@ Supported emotions:
 
 ### Motivational Feedback
 
-Displays encouraging messages based on detected emotion.
+Displays encouraging messages based on detected emotion
 
 Examples:
 
